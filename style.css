@@ -1,0 +1,68 @@
+h1{
+    background-color: white;
+    color: #61c014;
+    font-weight: bolder;
+    padding: 20px;
+    margin-top: -130px;
+}
+.cardContainer{
+ margin-top: 10px;
+    height: 25vh;
+    width: 45%;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.main{
+    margin-left:100px;
+    width: 85%;
+    background-color: #5080fe;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mainboth{
+   
+    background-color: white;
+    height: 25vh;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px;
+    align-items: center;
+}
+#dynamicHeading{
+    margin-top: -1px;
+    width: 100%;
+    height: 20vh;
+    color: white;
+    text-align: center;
+    height: fit-content;
+    background-color:#32a059;
+    text-transform: capitalize;
+}
+.mainboth input{
+    height: 35px;
+    width: 70%;
+    outline: none;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.mainboth button{
+    padding: 10px;
+    width: 30%;
+    margin-top: 20px;
+    background-color: #61c014;
+    color: white;
+    border: 2px solid #61c014;
+    border-radius: 5px;
+}
+#location{
+    color: #ea5313;
+    font-size: 40px;
+}
+#records{
+    color: rgb(229, 67, 61);
+}
